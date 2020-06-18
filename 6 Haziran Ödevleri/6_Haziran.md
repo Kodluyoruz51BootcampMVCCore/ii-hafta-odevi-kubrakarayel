@@ -31,11 +31,33 @@ Aşağıdaki internetten alıntı olan ve 2018 yılında oluşturulan grafikte g
 > Youtube Listesi incelenmeye başlanmıştır. 
 
  ## Merge pull request
- ### Create a merge commit
- ### Squash and merge
- ### Rebase and merge altında ne fark var (Ödev)
+ 
+   ### Create a merge commit 
+ **Git merge**  ile yaptığımız birleştirmede yeni bir commit yaratacak ve yeni branch’deki tüm history tarafını kaybetmeden birleştirme    işlemi gerçekleşmiş olcaktır.
+ ![merge](https://user-images.githubusercontent.com/61011022/85030849-9e6e8a80-b186-11ea-9c13-5a54561d3400.png)
+ 
+  ### Rebase and merge 
+**Git rebase** ile birleştirdiğimizde ise branch deki commit’lerimizi tek tek alıp istediğmiz branch üzerine ekleyecektir. Böylelikle tek bir history oluşturacak ve istenmeyen history ortadan kalkacaktır.
+Bu iki komutun farkına baktığımız noktada, aslında benzer işi yaptıklarını ve fark olarak ise **git rebase** kullanımında history’nin temizlendiğini ve **git merge** kullandığımızda ise tüm geçmişin korunduğunu görüyoruz.
 
+  ![rebase](https://user-images.githubusercontent.com/61011022/85031069-e7beda00-b186-11ea-81ba-2d7449991327.png)
 
+  ### Squash and merge
+  Öncelikle **git squash** nedir buradan başlayalım, git squash komutu aslında farklı bir rebase kullanımı olarak değerlendirmek daha doğru olacaktır. Geçmişte atılan commit’leri yeniden düzenlemek, isimlendirmek veya birleştirmek için kullanıyoruz.
+Bu geçmişte atılan commit’ler, local’de veya uzak bir git sunucusunda olabilir. Unutmamamız gereken bir nokta da, git squash işlemi yaptıktan sonra ‘force push’ kullanmamız gerektiğidir. İstenilen commit aralığını geri gidip yeniden düzenleme yaptıgımız için ‘force push’ kullanımı zorunludur.
+
+![squash](https://user-images.githubusercontent.com/61011022/85030943-bcd48600-b186-11ea-95a0-c7e7ef626459.png)
+
+## issue ve #pull request de id ler neden artıyor farklı sekmeler olmasına rağmen?
   
 
+## Ramp up on Git and GitHub 
+> Başlandı.
 
+## Aspnetboilerplate ve yan ürünler araştırması. AspNet Boilerplate - Web Application Framework
+
+
+
+
+## hackerRank.com --> 30 Days Of Code 
+>Başlandı.
