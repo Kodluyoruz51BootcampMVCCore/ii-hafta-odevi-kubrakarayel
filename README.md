@@ -1,7 +1,7 @@
 # II Hafta (6-7 Haziran) Ödevleri 
 
 ## 6 Haziran Ödevleri:
-- [ ] Github'ın Gitflow'u ile diğer yaklaşımları arasındaki fark nedir? ( gitflow vs ..)
+- [ ] [Github'ın Gitflow'u ile diğer yaklaşımları arasındaki fark nedir? ( gitflow vs ..)](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-kubrakarayel/blob/master/6%20Haziran%20%C3%96devleri/6_Haziran.md#github%C4%B1n-gitflowu-ile-di%C4%9Fer-yakla%C5%9F%C4%B1mlar%C4%B1-aras%C4%B1ndaki-fark-nedir--gitflow-vs-)
 - [ ] [Git and GitHub with Briana Swift](https://www.youtube.com/playlist?list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4) Youtube Listesi incelensin. (11 Video)
 - [ ] Merge pull request
     - [ ] Create a merge commit
