@@ -26,9 +26,16 @@ Aşağıdaki internetten alıntı olan ve 2018 yılında oluşturulan grafikte g
 ## Sourcetree,  Github ve  GitKraken Karşılaştırması
 
 ![1_bkV4LPaXcxG15oK4K0nGzA](https://user-images.githubusercontent.com/61011022/85024070-3caa2280-b17e-11ea-86b4-d2b0b85d886b.png)
+
+## Git and GitHub with Briana Swift Youtube Listesi incelensin. (11 Video)
+> Youtube Listesi incelenmeye başlanmıştır. 
+
+ ## Merge pull request
+ ### Create a merge commit
+ ### Squash and merge
+ ### Rebase and merge altında ne fark var (Ödev)
+
+
   
-First Header | Second Header
------------- | -------------
-text in red Content from cell 1 | Content from cell 2 |          
-Content in the first column | Content in the second column |
+
 
