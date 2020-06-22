@@ -3,6 +3,9 @@
 ## GitHub Nedir?
 Github.com adresinden ulaşabileceğiniz github yazılımcılar için bir sosyal medya ortamıdır. Aynı zamanda yazılımcılar için bir kod kütüphanesidir. Burada yazılımcılar kendi projelerini halka açık yada özel olarak saklayabilirler. Bu platformun en büyük özelliği çok sayıda open-source projeyi barındırıyor olmasıdır. Yazılımcılar tek başlarına ya da bir ekip halinde geliştirdikleri büyük, küçük bir çok projeyi burada diğer yazılımcılarla paylaşmaktadır. Burada bulunan open-source projelere katkı sağlayıp geliştirilmesini sağlayabilirsiniz yada kendi ihtiyacınız için değiştirip kullanabilirsiniz. Ücretli ya da ücretsiz olarak faydalanabileceğiniz seçenekler mevcut olmakla birlikte eskiden ücretli olan private(özel) proje geliştirme özelliğine artık ücret ödemenize gerek yok. 
 
+## GitFlow Nedir?
+Git versiyon kontrol sistemlerinden bir tanesidir. Git Flow ise bir Git eklentisidir. Git Akış ile projelerinizi geliştirirken daha Düzenli Bir Şube mantığıyla geliştirebilirsiniz.
+
 ## Bitbucket Nedir?
 Bitbucket.org adresinden ulaşabilirsiniz. Bitbucket size halka açık ve özel projelerinizi saklamanız için imkan sağlıyor  ancak Github’dan farkıysa burası bir sosyal medya ortamı yada open-source projeler için bir kütüphane şeklinde kullanılmamaktadır. Kişisel kullanım için ücret ödemeye gerek yoktur.
 
@@ -49,15 +52,31 @@ Bu geçmişte atılan commit’ler, local’de veya uzak bir git sunucusunda ola
 ![squash](https://user-images.githubusercontent.com/61011022/85030943-bcd48600-b186-11ea-95a0-c7e7ef626459.png)
 
 ## issue ve #pull request de id ler neden artıyor farklı sekmeler olmasına rağmen?
+>Bir issue açıldığında github onu pull request olarak algılıyor ve aynı ikisine de aynı ID yi veriyor.
+
+
   
 
 ## Ramp up on Git and GitHub 
 > Başlandı.
 
 ## Aspnetboilerplate ve yan ürünler araştırması. AspNet Boilerplate - Web Application Framework
+ASP.NET Boilerplate, özellikle yeni modern web uygulamaları için tasarlanmış genel amaçlı bir uygulama çerçevesidir. Zaten tanıdık araçlar kullanır ve size bir SOLID geliştirme deneyimi sağlamak için etraflarındaki en iyi uygulamaları uygular.
 
+>Detaylı bilgi için göz atabilirsiniz : https://aspnetboilerplate.com/Pages/Documents
 
 
 
 ## hackerRank.com --> 30 Days Of Code 
 >Başlandı.
+
+## Kaynakça
+
+* https://www.tolgacibikci.com/git-nedir-nasil-kurulur/
+* https://medium.com/@thejengo/15-dakikada-sourcetree-i%CC%87le-gitleyin-1cb55c2a8efb
+* https://medium.com/neyasistechnology/git-rebase-squash-ile-ge%C3%A7mi%C5%9Fi-yeniden-d%C3%BCzenlemek-9de36441f947
+* https://stackoverflow.com/questions/2427238/in-git-what-is-the-difference-between-merge-squash-and-rebase#:~:text=Merge%20squash%20merges%20a%20tree,commits%20into%20a%20single%20commit.&text=When%20doing%20an%20interactive%20rebase,you%20are%20going%20to%20rebase.
+* https://github.blog/2016-04-01-squash-your-commits/
+
+
+
