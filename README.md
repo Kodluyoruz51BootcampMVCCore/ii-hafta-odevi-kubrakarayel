@@ -13,14 +13,14 @@
 - [ ] [hackerRank.com](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-kubrakarayel/blob/master/6%20Haziran%20%C3%96devleri/6_Haziran.md#hackerrankcom----30-days-of-code) --> [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 ## 7 Haziran Ödevleri:
-- [ ] Razor Pages Nedir?
+- [ ] [Razor Pages Nedir?](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-kubrakarayel/blob/master/7%20Haziran%20%C3%96devleri/7_Haziran.md#razor-pages-nedir)
 - [ ] 4 Farklı Projede Yapılacak *Change Authentication* :
   - [ ] No Authentication
   - [ ] Individual User Account
   - [ ] Work or School Accounts
   - [ ] Windows Authentication seçili projeler oluşturulmalı
-- [ ] Ayarlardaki Output kısmındaki Console Application nedir? diğerleri arasında fark nedir? [Ders Akışındaki 6. Madde'yi inceleyin.] ( araştırma ödev verildi ).
-- [ ] c# json serialize / deserialize
-- [ ] MVC vs MVVM
-   - [ ] MVP vs MVW vs MVU Pattern arasındaki farkı araştır
-   - [ ] Model-View-Update (MVU) nedir?
+- [ ] [Ayarlardaki Output kısmındaki Console Application nedir? diğerleri arasında fark nedir? [Ders Akışındaki 6. Madde'yi inceleyin.] ( araştırma ödev verildi ).](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-kubrakarayel/blob/master/7%20Haziran%20%C3%96devleri/7_Haziran.md#ayarlardaki-output-k%C4%B1sm%C4%B1ndaki-console-application-nedir-di%C4%9Ferleri-aras%C4%B1nda-fark-nedir)
+- [ ] [c# json serialize / deserialize](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-kubrakarayel/blob/master/7%20Haziran%20%C3%96devleri/7_Haziran.md#json-i%CC%87le-serialize-ve-deserialize-i%CC%87%C5%9Flemi)
+- [ ] [MVC vs MVVM](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-kubrakarayel/blob/master/7%20Haziran%20%C3%96devleri/7_Haziran.md#mvc-vs-mvvm-vs-mvp-vs-mvw-vs-mvu-pattern-aras%C4%B1ndaki-fark)
+   - [ ] [MVP vs MVW vs MVU Pattern arasındaki farkı araştır](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-kubrakarayel/blob/master/7%20Haziran%20%C3%96devleri/7_Haziran.md#mvc-vs-mvvm-vs-mvp-vs-mvw-vs-mvu-pattern-aras%C4%B1ndaki-fark)
+   - [ ] [Model-View-Update (MVU) nedir?](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-kubrakarayel/blob/master/7%20Haziran%20%C3%96devleri/7_Haziran.md#mvu)
