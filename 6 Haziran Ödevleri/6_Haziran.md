@@ -52,7 +52,7 @@ Bu geçmişte atılan commit’ler, local’de veya uzak bir git sunucusunda ola
 ![squash](https://user-images.githubusercontent.com/61011022/85030943-bcd48600-b186-11ea-95a0-c7e7ef626459.png)
 
 ## issue ve #pull request de id ler neden artıyor farklı sekmeler olmasına rağmen?
->Bir issue açıldığında github onu pull request olarak algılıyor ve aynı ikisine de aynı ID yi veriyor.
+>Bir issue açıldığında github onu pull request olarak algılıyor ve ikisine de aynı ID yi veriyor.
 
 
   
